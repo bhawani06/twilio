@@ -1,0 +1,9 @@
+com\twilio\TwilioHandleKeyServlet.class
+com\example\guestbook\GuestbookServlet.class
+com\twilio\PhaseFourServlet.class
+com\twilio\TwilioServlet.class
+com\twilio\RedirectServlet.class
+com\twilio\details_bean.class
+com\twilio\phaseOnePlayServlet.class
+com\twilio\phaseOneServlet.class
+com\twilio\RetrieveDetailsServlet.class
