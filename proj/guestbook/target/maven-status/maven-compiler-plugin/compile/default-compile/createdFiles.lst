@@ -1,8 +1,0 @@
-com\twilio\singleton_details.class
-com\twilio\RedirectServlet.class
-com\twilio\PhaseFourServlet.class
-com\twilio\TwilioHandleKeyServlet.class
-com\example\guestbook\GuestbookServlet.class
-com\twilio\RetrieveDetailsServlet.class
-com\twilio\TwilioServlet.class
-com\twilio\details_bean.class
